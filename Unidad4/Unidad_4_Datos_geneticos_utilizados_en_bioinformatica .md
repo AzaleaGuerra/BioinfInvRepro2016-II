@@ -90,7 +90,7 @@ Ordenados de menor a mayor estos son los caracteres ASCII usados para representa
 Dependiendo del tipo y versión de plataforma de secuenciación se toman diferentes caracteres (pero sin desordenarlos):
 
 
-![ascii_fastqplataformas.PNG](ascii_fastqplataformas.PNG)
+![ascii_fastqplataformas.png](ascii_fastqplataformas.png)
 
 (Tomé la imágen de [aquí](http://en.wikibooks.org/wiki/Next_Generation_Sequencing_(NGS)/Pre-processing#Sequence_Quality)
 )
@@ -614,7 +614,10 @@ PHENOTYPE	Main phenotype value
 Ejemplo:
 
 ```
-FID	IID	PAT	MAT	SEX	PHENOTYPE	abph1.15_G	ae1.8_A	an1.3_A	ba1.5_G	ba1.7_A	csu1138.4_A	csu1171.2_A	Fea2.2_A	fea2.3_G	MZB00125.2_A	pbf1.3_G1	maiz_3	0	0	0	-9	2	0	0	2	0	0	2	0	0	0	02	maiz_68	0	0	0	-9	0	0	2	1	0	0	0	0	0	0	03	maiz_91	0	0	0	-9	2	0	0	0	0	0	2	0	0	1	0
+FID	IID	PAT	MAT	SEX	PHENOTYPE	abph1.15_G	ae1.8_A	an1.3_A	ba1.5_G	ba1.7_A	csu1138.4_A	csu1171.2_A	Fea2.2_A	fea2.3_G	MZB00125.2_A	pbf1.3_G
+1	maiz_3	0	0	0	-9	2	0	0	2	0	0	2	0	0	0	0
+2	maiz_68	0	0	0	-9	0	0	2	1	0	0	0	0	0	0	0
+3	maiz_91	0	0	0	-9	2	0	0	0	0	0	2	0	0	1	0
 ```
 
 
